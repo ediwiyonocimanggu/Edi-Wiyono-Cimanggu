@@ -1,0 +1,322 @@
+/*
+.body {
+	background-image: url(../yp-gbrweb/website_background.jpg);
+	background-color: #ffffff;
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+
+
+}
+
+.tangan_hitam{
+	text-decoration: none;
+	border: medium double #006600;
+	list-style-position: outside;
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+}
+.tangan_hijau{
+	text-decoration: none;
+	border: medium double #006600;
+	list-style-position: outside;
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #006600;
+
+}*/
+.tgn{
+	cursor: hand;
+}
+.tangan{
+	text-decoration: none;
+	border: medium double #666666;
+	list-style-position: outside;
+	color: #999999;
+
+}
+.tangan1{
+	text-decoration: none;
+	border: thin solid #cccccc;
+	list-style-position: outside;
+	color: #999999;
+
+}
+.tangan2{
+	text-decoration: none;
+	border: medium double #0098db;
+	list-style-position: outside;
+	color: #0098db;
+
+}
+.tangan3{
+	text-decoration: none;
+	border: medium double #FFFF00;
+	list-style-position: outside;
+	color: #FF0000;
+
+}
+.box {
+	font-family: Arial;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.merah18{
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.merah12{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.merah14{
+	font-family: Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.hitam16{
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.hitam12{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.hitam10{
+	font-family: Arial;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.hitam14{
+	font-family: Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.biru18{
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #0098db;
+	text-decoration: none;
+}
+.biru12{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #19408e;
+	text-decoration: none;
+}
+.biru_a12{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #0098db;
+	text-decoration: none;
+}
+.biru16{
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #0098db;
+	text-decoration: none;
+}
+.biru18{
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #0098db;
+	text-decoration: none;
+}
+.biru14{
+	font-family: Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #0098db;
+	text-decoration: none;
+}
+.birutit16{
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+}
+.dongker16{
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #272b67;
+	text-decoration: none;
+}
+.putih10{
+	font-family: Arial;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+
+}
+.putih12{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+
+}
+.putih14{
+	font-family: Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+
+}
+.putih16{
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+}
+.putih18{
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ffffff;
+	text-decoration: none;
+}
+.orange18{
+	font-family: Arial;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ef7123;
+	text-decoration: none;
+}
+.orange16{
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ef7123;
+	text-decoration: none;
+}
+.orange14{
+	font-family: Arial;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ef7123;
+	text-decoration: none;
+}
+.orange12{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ef7123;
+	text-decoration: none;
+}
+.orange10{
+	font-family: Arial;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #ef7123;
+	text-decoration: none;
+}
+.hijaubiru16{
+	font-family: Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #34a2af;
+	text-decoration: none;
+}
+.hijau12{
+	font-family: Arial;
+	font-size: 12px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	color: #00CC00;
+	text-decoration: none;
+}
